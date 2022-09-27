@@ -2,7 +2,7 @@
 
 ## Socials
 - Discord: Bulcane#8182
-- Twitter: @TSAZ
+- Twitter: @Bulcane1
 
 
 ## Linguaggi & Tools

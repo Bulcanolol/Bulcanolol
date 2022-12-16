@@ -1,7 +1,7 @@
 # Bulcane?!
 
 ## Socials
-- Discord: Bulcane#8182
+- Discord: Bulcane#5446
 - Twitter: @Bulcane1
 
 

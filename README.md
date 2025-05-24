@@ -1,8 +1,7 @@
-# Bulcane?!
+# Boolcane.md
 
 ## Socials
-- Discord: Bulcane#5446
-- Twitter: @Bulcane1
+- Discord: bulcane
 
 
 ## Linguaggi & Tools
@@ -15,7 +14,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png">
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Haxe Flixel" width="26px" src="https://github.com/HaxeFlixel.png?size=512"> 
 </br>
 </br>
 - OS: Windows 10 
